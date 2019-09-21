@@ -3,12 +3,11 @@
 int main(){
 	
 	printf ("oi gente");
-	return 0;
+    printf("ola como vai");
+
+
+
+return 0;
+
+
 }
-
-
-
-
-
-
-
